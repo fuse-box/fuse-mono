@@ -1,0 +1,16 @@
+{
+  "name": "fuse-mono-hashtool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "main:local": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/string-hash": "^1.1.1",
+    "string-hash": "^1.1.3"
+  }
+}

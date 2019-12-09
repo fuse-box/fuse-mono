@@ -1,0 +1,17 @@
+{
+  "name": "fuse-mono-website",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "ts-node ./fuse.ts",
+    "clean": "(rm -r ./dist) & (rm -r ./node_modules/.fusebox)"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fuse-box": "^4.0.0-alpha.256",
+    "tslib": "^1.10.0",
+    "typescript": "^3.7.3",
+    "ts-node": "^8.5.4"
+  }
+}
