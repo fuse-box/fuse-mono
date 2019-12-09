@@ -1,0 +1,1 @@
+export const path1Export = "Hello World";

@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "paths": {
-      "hash-tool": ["HashTool/src"],
+      "hash-tool": ["../../HashTool/src"],
     }
   }
 }
