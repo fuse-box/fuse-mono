@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "ts-node ./fuse.ts",
-    "clean": "(rm -r ./dist) & (rm -r ./node_modules/.fusebox)"
+    "clean": "(rm -r ./dist || true) & (rm -r ./node_modules/.fusebox || true)"
   },
   "author": "",
   "license": "ISC",
